@@ -1,16 +1,15 @@
-# app_login_ui
+# Flutter Login & Signup UI
 
-A new Flutter project.
+A Flutter project for YouTube tutorial. Here I have created layout of a Landing/Getting Started screen for the App and Login & Signup Screens.
 
-## Getting Started
+## Getting Started Screen
 
-This project is a starting point for a Flutter application.
+This is a landing or gettting started screen of the app, where I have used PageView widget to give a sliding effect of a section of the screen and it has automatic transition effect. For more details [please see the tutorial here](https://youtu.be/oS7iK5ivgD0).
 
-A few resources to get you started if this is your first Flutter project:
+![Getting Started Screen](https://www.pradipdebnath.com/wp-content/uploads/2019/09/flutter-app-getting-started-screen.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Login & Signup Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Login & signup screens in flutter. To know more in details [please follow this YouTube tutorial](https://youtu.be/OqO5wjMkaHo).
+
+![Login Screen](https://www.pradipdebnath.com/wp-content/uploads/2019/09/flutter-app-login-screen.png) ![Signup Screen](https://www.pradipdebnath.com/wp-content/uploads/2019/09/flutter-app-signup-screen.png)
